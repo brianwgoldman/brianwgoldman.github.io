@@ -7,10 +7,10 @@ permalink: /research/
 I teach computers to be better at guess, check, and revise. At least, that is the short version of my research.
 More precisely, I develop optimization algorithms based on evolutionary principles for the purpose
 of finding high quality solutions to challenging real-world problems.
-<!---
+[//]: # (
 Most of the time this involves staring at white boards, pacing back and forth,
 and muttering to myself, with occasional rushes of pure excitement caused by some new revelation.
--->
+)
 
 For the last 18 months I have been working to develop what I call the
 [Parameter-less Population Pyramid](http://dl.acm.org/citation.cfm?id=2598350), or P3 for short.
