@@ -5,7 +5,7 @@ title: P3 now in HeuristicLab
 
 {% include figure.html src="https://brianwgoldman.github.io/images/p3-hlab.png" caption="Example P3 optimization using HeuristicLab." width="50%" height="50%" %}
 [HeuristicLab](http://dev.heuristiclab.com/trac.fcgi/wiki) is an open source toolkit for performing optimization.
-Developed by the [Heuristic and Evolutionary Algorithms Laboratory (HEAL)](http://heal.heuristiclab.com/), user friendly software
+Developed by the [Heuristic and Evolutionary Algorithms Laboratory (HEAL)](http://heal.heuristiclab.com/), this user friendly software
 provides a clean graphical interface and a heap of features. I am excited to announce that P3 is now
 [available for download](http://dev.heuristiclab.com/trac.fcgi/wiki/Download) as part of HeuristicLab 3.3.11.
 
