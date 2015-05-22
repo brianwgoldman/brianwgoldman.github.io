@@ -7,8 +7,10 @@ permalink: /research/
 I teach computers to be better at guess, check, and revise. At least, that is the short version of my research.
 More precisely, I develop optimization algorithms based on evolutionary principles for the purpose
 of finding high quality solutions to challenging real-world problems.
-#Most of the time this involves staring at white boards, pacing back and forth,
-#and muttering to myself, with occasional rushes of pure excitement caused by some new revelation.
+<!---
+Most of the time this involves staring at white boards, pacing back and forth,
+and muttering to myself, with occasional rushes of pure excitement caused by some new revelation.
+-->
 
 For the last 18 months I have been working to develop what I call the
 [Parameter-less Population Pyramid](http://dl.acm.org/citation.cfm?id=2598350), or P3 for short.
@@ -21,9 +23,8 @@ changes to that guess (hill climbing) until doing so can’t make it any better.
 to the point where moving any chair will not make things better, but if you could move all of them at once
 into a big stack it would be a lot better.
 
-{% include figure.html src="https://brianwgoldman.github.io/images/p3-algorithm.png" caption="Caption to image" %}
-
-#![P3 Algorithm Overview]({{ site.baseurl }}/images/p3-algorithm.png)
+{% include figure.html src="https://brianwgoldman.github.io/images/p3-algorithm.png"
+    caption="These are the words under the image." width="50%" height="50%" %}
 
 Unfortunately, trying to test all ways to make larger changes to a guess can take a lot of time.
 To overcome this problem, P3 stores multiple good guesses (population) and tries to learn what makes them good.
