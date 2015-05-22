@@ -21,7 +21,7 @@ changes to that guess (hill climbing) until doing so can’t make it any better.
 to the point where moving any chair will not make things better, but if you could move all of them at once
 into a big stack it would be a lot better.
 
-{% include figure.html src="{{ site.baseurl }}/images/p3-algorithm.png" caption="Caption to image" %}
+{% include figure.html src="https://brianwgoldman.github.io/images/p3-algorithm.png" caption="Caption to image" %}
 
 #![P3 Algorithm Overview]({{ site.baseurl }}/images/p3-algorithm.png)
 
