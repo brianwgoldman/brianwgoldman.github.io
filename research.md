@@ -23,8 +23,7 @@ changes to that guess (hill climbing) until doing so can’t make it any better.
 to the point where moving any chair will not make things better, but if you could move all of them at once
 into a big stack it would be a lot better.
 
-{% include figure.html src="https://brianwgoldman.github.io/images/p3-algorithm.png"
-    caption="These are the words under the image." width="50%" height="50%" %}
+{% include figure.html src="https://brianwgoldman.github.io/images/p3-algorithm.png" caption="These are the words under the image." width="50%" height="50%" %}
 
 Unfortunately, trying to test all ways to make larger changes to a guess can take a lot of time.
 To overcome this problem, P3 stores multiple good guesses (population) and tries to learn what makes them good.
